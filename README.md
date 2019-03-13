@@ -1,4 +1,4 @@
-# Naive-Bayes
+# Naive Bayes From Scratch!
 Tugas Akhir Mata Kuliah Statistik Komputasi
 
-Punya Rakhman Wahid
+Berkolaborasi dengan <a href="https://github.com/sunudika">Sunu Ilham P</a>
