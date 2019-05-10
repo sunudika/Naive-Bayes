@@ -1,8 +1,7 @@
-# Naive Bayes From Scratch!
+# <i>Naive Bayes From Scratch!</i>
 Tugas Akhir Mata Kuliah Statistik Komputasi
 
-<p align="center">
-<img src="https://i.ibb.co/F0TkbYf/bnb.png"/></p>
+Di bawah bimbingan :<br>
+Eva Yulia Puspaningrum, S.Kom. M.Kom.<br>
 
-Sedang dalam tahap pembuatan program utama<br>
 Berkolaborasi dengan <a href="https://github.com/sunudika">Sunu Ilham P</a>
