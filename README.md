@@ -2,7 +2,7 @@
 <p align="right">
 بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم 
 </p>
-Tugas Akhir Mata Kuliah Statistik Komputasi
+Tugas Akhir Mata Kuliah Statistik Komputasi<br>
 
 Di bawah bimbingan :<br>
 Eva Yulia Puspaningrum, S.Kom. M.Kom.<br>
