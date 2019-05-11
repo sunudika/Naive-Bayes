@@ -1,8 +1,7 @@
+# <i>Naive Bayes From Scratch!</i>
 <p align="right">
 بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم 
 </p>
-
-# <i>Naive Bayes From Scratch!</i>
 Tugas Akhir Mata Kuliah Statistik Komputasi
 
 Di bawah bimbingan :<br>
