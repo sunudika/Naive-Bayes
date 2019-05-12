@@ -5,4 +5,4 @@
 Di bawah bimbingan :<br>
 Eva Yulia Puspaningrum, S.Kom. M.Kom.<br><br>
 
-Berkolaborasi dengan <a href="https://github.com/sunudika">Sunu Ilham P</a>
+Berkolaborasi dengan <a href="https://github.com/Rakhid16">Radical Rakhman Wahid</a>
